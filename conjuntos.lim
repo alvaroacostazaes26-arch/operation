@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>C0C0C0</corfondo>
+        <corbanda>0080FF</corbanda>
+        <cornavega>FF0000</cornavega>
+        <cormensaxes>FF0000</cormensaxes>
+        <cortexto>804040</cortexto>
+        <titulo>Teoria de conjuntos</titulo>
+        <subtitulo>operaciones entre conjuntos</subtitulo>
+        <autor>Alvaro Antonio Acosta Sáenz</autor>
+        <logo>IMG_MULTIPLICACIONES.png</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Excelente!</correcto>
+        <incorrecto son="" modo="1" >Sigue intentando amigo</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="16">Diapositiva1.JPG</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>4</forma>
+              <numero>3</numero>
+              <numero>3</numero>
+        </paxina>
+        <paxina id="3" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>4</forma>
+              <numero>5</numero>
+              <numero>5</numero>
+        </paxina>
+        <paxina id="4" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>5</forma>
+              <numero>5</numero>
+              <numero>5</numero>
+        </paxina>
+        <paxina id="5" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>0</forma>
+              <numero>4</numero>
+              <numero>3</numero>
+        </paxina>
+        <paxina id="6" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>0</forma>
+              <numero>6</numero>
+              <numero>6</numero>
+        </paxina>
+        <paxina id="7" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>1</forma>
+              <numero>4</numero>
+              <numero>3</numero>
+        </paxina>
+        <paxina id="8" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>1</forma>
+              <numero>5</numero>
+              <numero>4</numero>
+        </paxina>
+        <paxina id="9" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>6</forma>
+              <numero>5</numero>
+              <numero>1</numero>
+        </paxina>
+        <paxina id="10" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>6</forma>
+              <numero>5</numero>
+              <numero>1</numero>
+        </paxina>
+        <paxina id="11" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>6</forma>
+              <numero>4</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="12" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>6</forma>
+              <numero>4</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="13" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>3</forma>
+              <numero>5</numero>
+              <numero>1</numero>
+        </paxina>
+        <paxina id="14" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>3</forma>
+              <numero>5</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="15" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>3</forma>
+              <numero>4</numero>
+              <numero>1</numero>
+        </paxina>
+        <paxina id="16" >
+              <tipo>33</tipo>
+              <modo>0</modo>
+              <forma>3</forma>
+              <numero>5</numero>
+              <numero>2</numero>
+        </paxina>
+    </libro>
+</lim>
